@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="12" failures="0" errors="0" time="0.563">
+    <testsuite name="src/__tests__/indexTest.test.jsx" timestamp="2025-12-09T00:55:35.671Z" hostname="Roberts-MacBook-Air.local" tests="12" failures="0" errors="0" skipped="0" time="0.02878175">
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Update Existing Element - Header &gt; renders an element with id &quot;header&quot;" time="0.006777709">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Update Existing Element - Header &gt; header displays &quot;Product Dashboard&quot;" time="0.001245625">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Create New Elements for Each Product &gt; renders a product list container with id &quot;product-list&quot;" time="0.000955583">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Create New Elements for Each Product &gt; displays all products with their names" time="0.004627">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Create New Elements for Each Product &gt; displays product prices" time="0.001559708">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Create New Elements for Each Product &gt; displays product availability status" time="0.001013917">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Create New Elements for Each Product &gt; each product is contained in a div element" time="0.000798417">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Conditional Rendering - Out of Stock Styling &gt; applies &quot;outOfStockClass&quot; CSS Module class to out-of-stock products" time="0.000980834">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Conditional Rendering - Out of Stock Styling &gt; does not apply &quot;outOfStockClass&quot; to in-stock products" time="0.000953083">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Bonus Challenge - Delete Element &gt; renders Remove buttons for each product" time="0.00075475">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Bonus Challenge - Delete Element &gt; removes product from the dashboard when Remove button is clicked" time="0.003012708">
+        </testcase>
+        <testcase classname="src/__tests__/indexTest.test.jsx" name="Product Dashboard Tests &gt; Bonus Challenge - Delete Element &gt; can remove multiple products sequentially" time="0.005528833">
+        </testcase>
+    </testsuite>
+</testsuites>
